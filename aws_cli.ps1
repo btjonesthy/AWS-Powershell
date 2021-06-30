@@ -3,7 +3,7 @@ cls
 
 try
 {
-    $api = "https://mercury/SecretServer/api/v1"
+    $api = "https://mysecretserver/SecretServer/api/v1"
     $tokenRoute = "https://mercury/SecretServer/oauth2/token";
 
     $creds = @{
